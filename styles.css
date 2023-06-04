@@ -1,0 +1,15 @@
+.card {
+  margin-bottom: 20px;
+}
+
+.user-image {
+  width: 100%;
+}
+
+.user-info {
+  padding: 10px;
+}
+
+.user-info p {
+  margin-bottom: 5px;
+}
